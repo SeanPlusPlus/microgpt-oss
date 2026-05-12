@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.venv/
+.env
+
+# uv
+uv.lock
+
+# Data
+input.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
